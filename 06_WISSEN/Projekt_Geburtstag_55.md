@@ -16,17 +16,39 @@ Dieses Projekt dokumentiert die Planung und Durchführung der Feier zum 55. Gebu
 - **Programm**: Live-Musik, Show-Acts, Burlesque, filmreife Kulisse der 20er Jahre.
 - **Besonderheit**: Ab 01.01.2026 nur bargeldlose Zahlung vor Ort möglich.
 
+## Gästeliste & Einladungsstrategie
+
+### Inner Circle (Kostenübernahme durch Markus)
+Markus lädt einen engen Kreis von Personen ein und übernimmt die Ticketkosten (39,00 € p.P.). Eine verbindliche Zusage ist hierfür zwingend erforderlich.
+
+| Person(en) | Status / Notiz |
+| :--- | :--- |
+| **Markus & Natalie Adler-Brenscheidt** | Gastgeber |
+| **Gaby & Patrick Sobkowiak** | Enge Freunde (Tanzpartnerin) |
+| **Barbara Hentschel** | Gute Freundin (Urlaubsbegleitung) |
+| **Dr. Wolfgang Fuhr & Notti** | Sehr gute Freunde (ggf. im Skiurlaub) |
+| **Petra Sikinger-Losch & Thomas Sikinger** | Familie (Cousine & Mann) |
+| **Steffen & Jana Brenscheidt** | Familie (Schwager & Frau) |
+
+### Erweiterter Kreis (Selbstzahler)
+Weitere Freunde können eingeladen werden mit dem Hinweis auf den Vorverkaufspreis und Link zur Selbstbuchung.
+
 ## Konzept & Planung
 
 ### 1. Einladung (Motto: "Die Goldenen 55er")
 - **Stil**: Art Déco / 1920er Jahre Design.
-- **Inhalt**: Einladung zum Eintauchen in eine längst vergangene Zeit. Hinweis auf den Meilenstein (55 Jahre).
-- **Fristen**: Rückmeldung bis Ende November 2025 erwünscht, um Tickets gesammelt oder koordiniert zu kaufen.
+- **Inhalt**: Einladung zum Eintauchen in eine längst vergangene Zeit.
+- **Fristen**: Verbindliche Rückmeldung für den Inner Circle bis **15.12.2025**.
 
-### 2. Logistik & Organisation
-- **Kartenkauf**: Koordination, ob Markus die Karten zentral kauft oder jeder Gast selbst (Link zur Buchung bereitstellen).
-- **Anfahrt**: Knappenstraße 36, 46238 Bottrop. Parkplätze vorhanden, Taxistand direkt an der Location.
-- **Garderobe**: Expliziter Hinweis auf die Garderobenpflicht (authentische 20er Jahre Kleidung).
+### 2. Dresscode-Support
+Um die Garderobenpflicht zu erleichtern, bietet Markus folgende Ressourcen an:
+- **Nachhaltig/Günstig**: Suche auf [Kleinanzeigen.de](https://www.kleinanzeigen.de) nach "1920er Jahre", "Gatsby" oder "Charleston".
+- **Spezialisiert**: Online-Shop [Zapaka.de](https://zapaka.de/collections/1920er-anzuge) für authentische Outfits.
+
+### 3. Logistik & Organisation
+- **Kartenkauf**: Markus kauft die Tickets für den Inner Circle zentral nach der Rückmeldefrist.
+- **Anfahrt**: Knappenstraße 36, 46238 Bottrop. Taxistand direkt an der Location.
+- **Zahlung vor Ort**: Ab 01.01.2026 nur bargeldlos möglich.
 
 ### 3. Kommunikation (Zeitplan)
 - **Dezember 2025**: Versand der offiziellen Einladung (Save-the-Date bereits erfolgt).
