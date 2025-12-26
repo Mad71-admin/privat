@@ -21,5 +21,6 @@ Dieses Dokument strukturiert die wichtigsten persönlichen Verbindungen von Mark
 ## Nachbarschaft (Meine Hood)
 - **Katharina Bohn**: Direkte Nachbarin. Sie ist Friseurin und schneidet der Familie die Haare.
 - **Monika Schimmel**: Nachbarin (zwei Häuser weiter), verwitwet und der Familie sehr zugetan.
+- **Annika & David**: Zaunnachbarn aus der Langerfeldstraße 10.
 - **Carsten & Günter**: Weitere Nachbarn (siehe Flow-lyne Liste).
 - **Annika & David**: Weitere Kontakte aus dem Umfeld.
