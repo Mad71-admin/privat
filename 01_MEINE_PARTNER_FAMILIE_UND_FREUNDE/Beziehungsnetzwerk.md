@@ -14,6 +14,7 @@ Dieses Dokument strukturiert die wichtigsten persönlichen Verbindungen von Mark
 - **Gaby Sobkowiak**: Tanzpartnerin und enge Freundin.
 - **Patrick Sobkowiak**: Ehemann von Gaby.
 - **Chris Sobkowiak**: Sohn von Gaby und Patrick.
+- **Lars Schmidt**: Alter Freund (Wiederaufnahme des Kontakts nach 37 Jahren).
 - **Dr. Wolfgang Fuhr**: Sehr guter Freund.
 - **Notti**: Ehefrau von Dr. Wolfgang Fuhr.
 - **Barbara Hentschel**: Zweite Partnerin von Dr. Wolfgang Fuhr und gute Freundin (Urlaubsbegleitung).
